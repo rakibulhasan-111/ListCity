@@ -29,7 +29,7 @@
         android:id="@+id/textView"
         android:layout_width="140dp"
         android:layout_height="0dp"
-        android:text="17070095"
+        android:text="1707095"
         android:textSize="30dp"
         android:textColor="#000000"
         app:layout_constraintBottom_toTopOf="@+id/textView1"
